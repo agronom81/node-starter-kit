@@ -1,0 +1,7 @@
+"use strict";
+
+console.log("load main.js");
+"use strict";
+
+console.log("load main2.js");
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiLCJtYWluMi5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUNGQTtBQUNBO0FBQ0EiLCJmaWxlIjoiYXBwLmpzIiwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2Ugc3RyaWN0XCI7XG5cbmNvbnNvbGUubG9nKFwibG9hZCBtYWluLmpzXCIpOyIsIlwidXNlIHN0cmljdFwiO1xuXG5jb25zb2xlLmxvZyhcImxvYWQgbWFpbjIuanNcIik7Il19
